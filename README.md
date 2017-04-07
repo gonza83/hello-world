@@ -1,2 +1,5 @@
 # hello-world
-ovo je novi fajl
+Zdravo ljudi
+
+Ja sam nov ovde
+Ovde sam da naučim nesto
